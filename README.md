@@ -7,10 +7,10 @@
 1. ဖတ်ချင်သော စာအုပ်နာမည်ကို (Mouse Pointer/လက်ညိုး ဖြင့် "click") ဖိနှိပ်ပါ။ စာအုပ်ရှိသော နေရာသို့ ရောက်သွားပါလိမ့်မည်။
 <br/>
 <br/>
-2. "Download Button" ကို (click) နှိပ်ပါ။ "Do you want to download" စာ ပေါ်လာပါလိမ့်မည်။
+2. "Download Button" ကို (click) ဖိနှိပ်ပါ။ "Do you want to download" စာ ပေါ်လာပါလိမ့်မည်။
 <br/>
 <br/>
-3. အပြာရောင် "Download" စာကို ထပ် (click) နှိပ်ပါ။
+3. အပြာရောင် "Download" စာကို ထပ် (click) ဖိနှိပ်ပါ။
 <br/>
 <br/>
 <table style="width: 100%">
